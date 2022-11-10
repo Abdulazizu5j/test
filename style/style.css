@@ -22,12 +22,12 @@ ul {
 }
 .header__nav {
     padding: 25px 0;
-    background: grey;
+    background: rgb(6, 1, 1);
 }
 .logo {
     text-transform: uppercase;
     font-size: 40px;
-    color: white;
+    color: rgb(113, 13, 13);
 }
 .header__nav-list {
     display: flex;
